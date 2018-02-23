@@ -6,7 +6,7 @@
   command = "npm run build-preview"
   
 [[redirects]]
-  from = "/post/
+  from = "/post/"
   to = "https://bvcformtest.netlify.com"
   status = 200
   force = true
