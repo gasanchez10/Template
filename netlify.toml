@@ -6,7 +6,7 @@
   command = "npm run build-preview"
   
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from = "/post"
+  to = "/contact"
   status = 200
   force = true # COMMENT: ensure that we always redirect
