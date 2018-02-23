@@ -10,3 +10,14 @@
   to = "/contact"
   status = 200
   force = true # COMMENT: ensure that we always redirect
+
+
+[[redirects]]
+  from = "/contact"
+  to = "https://api.netlify.com/api/v1/sites"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"} # COMMENT: add this header to the search request
+  signed = "Bearer a8659ef07d0c774682278387bd5edf8d1561936a731791afd4b6b261e7224691" # COMMENT: sign each request with the value of this env variable
+
+
