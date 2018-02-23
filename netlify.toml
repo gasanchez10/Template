@@ -14,9 +14,9 @@
 
 [[redirects]]
   from = "/contact"
-  to = "https://api.netlify.com/api/v1/sites"
+  to = "https://airportapi-proyect.appspot.com/germanReq"
   status = 200
   force = true
-  headers = {X-From = "Netlify" , Authorization = "Bearer a8659ef07d0c774682278387bd5edf8d1561936a731791afd4b6b261e7224691"} # COMMENT: add this header to the search request
+  headers = {X-From = "Netlify" , Authorization = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1qbEZPVGMzTTBWQk0wSXdRelF3TmtORE1ERTRRVE5HTkRnMVFVVXdRelZDUTBWQk9FTXdOZyJ9.eyJpc3MiOiJodHRwczovL21ldGFsZHVtbXkuYXV0aDAuY29tLyIsInN1YiI6IjVhY0ZnODVpTm9ObTZpZzVNZHBBSVZNa2p5QW45Zm9HQGNsaWVudHMiLCJhdWQiOiJodHRwOi8vZ29vZ2xlX2FwaSIsImlhdCI6MTUxOTQwMzE0MCwiZXhwIjoxNTE5NDg5NTQwLCJhenAiOiI1YWNGZzg1aU5vTm02aWc1TWRwQUlWTWtqeUFuOWZvRyIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.Y3IJMQuKZUa6fWIouJ8ZYaipKOzUhvg65ycXj3dnWaqeoz5Ff3QcfRAj2bPAwDLyD7swcxTO1xJCa-TI-ebBukjAp01PTQM-A-nmhE6-_SeVSZK3x13eKPK_yEurey8-QrfQtiLUL-VA3bbC6soXLPX5iiX6wXdWayrMkgbgyE9fgrT6VtBI-px3Vt7og7oDpCe9Ui1eQs9yKVrrk-J788mKKfLb_gTS51lTk68067nTrtoOS_TJnPqILQ2tLdR2yPs2c3OsA6nf-lzi0DpQzatYBvUtS2gFM_s5d3s5DFOqpoTfaKKrjfR6hhMhkKJF9UOW0MxyrXkPsSLK9Ftjug"} # COMMENT: add this header to the search request
 
 
