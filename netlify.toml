@@ -4,3 +4,10 @@
 
 [context.deploy-preview]
   command = "npm run build-preview"
+  
+[[redirects]]
+  from = "/post/
+  to = "https://bvcformtest.netlify.com"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"} # COMMENT: add this header to the search request
